@@ -3,6 +3,29 @@ A full-stack web application project from Udemy course - The Web Developer Bootc
 ## LIVE DEMO
 Link to My Yelp-Camp Web Page -> [Click Me!](https://infinite-caverns-07333.herokuapp.com/)
 ## Features
+- Authentication
+- Authorization
+- Campground posts CRUD
+- Flash message created by user interaction
+- Responsive Web Design
 ## Built with
+### Front-end
+- Bootstrap
+- Mapbox Geocoding API 
+- EJS
+### Back-end
+- Asynchronous JavaScript
+- MongoDB
+- express
+- mongoose
+- passport
+- passport-local
+- express-session
+- method-override
+- helmet
+## Platform
+- Heroku
+- MongoDB Altas
+- Cloudinary
 ## License
 MIT
