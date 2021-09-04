@@ -22,6 +22,7 @@ Link to My Yelp-Camp Web Page -> [Click Me!](https://infinite-caverns-07333.hero
 - mongoose
 - passport
 - passport-local
+- Joi
 - express-session
 - method-override
 - helmet
