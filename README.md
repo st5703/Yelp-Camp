@@ -6,6 +6,7 @@ Link to My Yelp-Camp Web Page -> [Click Me!](https://infinite-caverns-07333.hero
 - Authentication
 - Authorization
 - Campground posts CRUD
+- Image upload and delete
 - Flash message created by user interaction
 - Responsive Web Design
 ## Built with
